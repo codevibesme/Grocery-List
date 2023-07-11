@@ -1,7 +1,7 @@
 {
   "name": "grocery_list",
   "version": "0.1.0",
-  "homepage": "https://codevibesme.github.io/Grocery-List",
+  "homepage": "https://codevibesme.github.io/grocery_list",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
